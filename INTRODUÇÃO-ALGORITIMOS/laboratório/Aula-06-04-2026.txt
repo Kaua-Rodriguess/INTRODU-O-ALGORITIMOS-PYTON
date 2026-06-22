@@ -1,0 +1,51 @@
+Pergunta 1
+Faça um programa que execute o cálculo de um Arranjo Simples, onde:
+
+
+A (n,p) =  n !  / ( n - p ) !
+
+
+Ex:  A(4,2) =  4 ! / ( 4 - 2 ) !   =  12
+
+________________________________________________________________________________________________________
+Pergunta 2
+Faça um programa que execute o cálculo de uma Combinação Simples, onde:
+
+
+C (n,p) =  n !  /  p ! ( n - p ) !
+
+
+Ex:  C(4,2) =  4 ! /  2 ! ( 4 - 2 ) !   =  6
+
+________________________________________________________________________________________________________
+Pergunta 3
+Faça um programa que permita que o usuário escolha qual o tipo de cálculo combinatório a ser executado:
+
+1. Arranjo Simples;
+
+2. Combinação Simples;
+
+3. Permutação, onde P (n) = n !
+
+________________________________________________________________________________________________________
+Pergunta 4
+Faça um programa que leia uma série de 6 números e após mostre: 
+
+a) o maior número lido;
+
+b) o menor número lido.
+
+
+Ex:  (3, 12, -5, 8, 30, 9)
+
+Saída:   menor = -5    maior = 30
+
+________________________________________________________________________________________________________
+Pergunta 5
+Faça um programa que pesquise o preço em Reais (R$) de um determinado produto, em 8 lojas diferentes.
+
+Após a pesquisa mostre: 
+
+o maior preço verificado;
+o menor preço verificado;
+a média dos preços pesquisados.
