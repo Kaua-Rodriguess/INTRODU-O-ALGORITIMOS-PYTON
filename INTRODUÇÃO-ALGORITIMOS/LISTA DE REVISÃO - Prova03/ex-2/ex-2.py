@@ -8,7 +8,7 @@ l2 = []
 nomes_mesclados = []
 
 
-for linha in arq1:
+for linha in arq1:#linha pega todos os valores que estão linha a linha em arq1
     l1.append(linha.strip()) #strip() serve para não imprimir o "enter"
 
 for linha in arq2:
